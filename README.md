@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kyash0016
 - 👀 I’m interested in Data Science and Web Developement.
-- 🌱 I’m currently learning Web Dev.
+- 🌱 Currently learning Web Dev.
 - 📫 How to reach me on LinkedIn https://www.linkedin.com/in/k-yash/
 
 <!---
